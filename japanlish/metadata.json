@@ -1,0 +1,8 @@
+{
+  "name": "Japanlish - Hơn hôm qua một chút là được",
+  "description": "Ứng dụng luyện gõ từ vựng tiếng Nhật từ nghĩa tiếng Việt với bộ gõ Romaji chuyển đổi trực tiếp sang Hiragana và Katakana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
